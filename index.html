@@ -5,232 +5,100 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Portfolio Data Analyst - Julie Rocher</title>
   <style>
-    html {
-      scroll-behavior: smooth;
-    }
-
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background: #f3f4f6;
+      background-color: #f3f4f6;
       color: #0f172a;
-      line-height: 1.5;
+      line-height: 1.6;
     }
 
     .container {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 24px;
+      max-width: 1100px;
+      margin: auto;
+      padding: 30px;
     }
 
-    header {
-      background: #ffffff;
-      border-bottom: 1px solid #d1d5db;
-      padding: 28px 0 20px 0;
+    h1, h2 {
+      color: #163b6d;
     }
 
-    .title {
-      font-size: 2.2rem;
-      font-weight: 700;
-      margin: 0 0 8px 0;
-      color: #0f172a;
-    }
-
-    .subtitle {
-      margin: 0 0 18px 0;
-      color: #64748b;
-      font-size: 1.1rem;
-    }
-
-    nav {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 12px;
-    }
-
-    .nav-btn {
-      display: inline-block;
-      background: #2563eb;
-      color: white;
-      text-decoration: none;
-      padding: 12px 18px;
-      border-radius: 14px;
-      font-weight: 600;
-    }
-
-    .nav-btn:hover {
-      background: #1d4ed8;
-    }
-
-    main {
-      padding: 28px 0 40px 0;
-    }
-
-    section {
-      margin-bottom: 34px;
+    .hero {
+      background-color: #ffffff;
+      border-radius: 16px;
+      padding: 30px;
+      margin-bottom: 30px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
     }
 
     .card {
-      background: #e9edf2;
-      border: 1px solid #d7dce2;
-      border-radius: 22px;
-      padding: 26px;
+      background-color: #e9edf2;
+      border-radius: 16px;
+      padding: 25px;
+      margin-bottom: 25px;
     }
 
-    h2 {
-      font-size: 1.35rem;
-      margin-top: 0;
-      color: #0f172a;
-    }
-
-    .button-row {
+    .buttons {
+      margin-top: 20px;
       display: flex;
       flex-wrap: wrap;
       gap: 12px;
-      margin-top: 18px;
     }
 
-    .pill-btn {
+    .btn {
       display: inline-block;
-      background: #ffffff;
-      color: #0f172a;
+      background-color: #1f497d;
+      color: white;
       text-decoration: none;
-      border: 1px solid #d1d5db;
-      padding: 10px 16px;
-      border-radius: 999px;
+      padding: 12px 18px;
+      border-radius: 10px;
+      font-weight: bold;
     }
 
-    .pill-btn:hover {
-      background: #f8fafc;
-    }
-
-    .cards-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 18px;
-      margin-top: 18px;
-    }
-
-    .mini-card {
-      background: #e9edf2;
-      border: 1px solid #d7dce2;
-      border-radius: 20px;
-      padding: 22px;
-    }
-
-    .mini-card h3 {
-      margin-top: 0;
-      font-size: 1.1rem;
+    .btn:hover {
+      background-color: #16365d;
     }
 
     .muted {
-      color: #64748b;
+      color: #475569;
     }
   </style>
 </head>
 <body>
+  <div class="container">
 
-  <header>
-    <div class="container">
-      <h1 class="title">Portfolio Data Analyst</h1>
-      <p class="subtitle">Julie Rocher · Projets RNCP · Livrables Aéroworld · Dashboards</p>
-
-      <nav>
-        <a class="nav-btn" href="#presentation">Présentation</a>
-        <a class="nav-btn" href="#aeroworld">Aéroworld</a>
-        <a class="nav-btn" href="#dashboards">Dashboards</a>
-        <a class="nav-btn" href="#projets">Projets RNCP</a>
-        <a class="nav-btn" href="#documents">Documents</a>
-        <a class="nav-btn" href="#contact">Contact</a>
-      </nav>
-    </div>
-  </header>
-
-  <main class="container">
-
-    <section id="presentation">
-      <div class="card">
-        <h2>Présentation</h2>
-        <p>
-          Data Analyst en formation, j’ai développé mes compétences à travers 13 projets professionnalisants
-          réalisés avec OpenClassrooms sur deux ans, autour de l’analyse de données, du reporting et de la visualisation.
-        </p>
-        <p>
-          En reconversion professionnelle, je m’appuie sur une première expérience en optique,
-          fondée sur la rigueur, l’écoute et l’analyse du besoin.
-        </p>
-      </div>
-    </section>
-
-    <section id="aeroworld">
-      <h2>Projet Aéroworld – Portfolio final</h2>
+    <div class="hero">
+      <h1>Julie Rocher – Portfolio Data Analyst</h1>
       <p>
-        Ensemble des livrables du projet final : analyse des besoins, cahier des charges, Gantt,
-        dashboards Power BI, documentation et vidéo Loom.
+        Data Analyst en formation, j’ai développé mes compétences à travers 13 projets professionnalisants réalisés avec OpenClassrooms sur deux ans, autour de l’analyse de données, du reporting et de la visualisation.
+      </p>
+      <p>
+        En reconversion professionnelle, je m’appuie sur une première expérience en optique, fondée sur la rigueur, l’écoute et l’analyse du besoin.
       </p>
 
-      <div class="button-row">
-        <a class="pill-btn" href="#">Analyse du besoin (PDF)</a>
-        <a class="pill-btn" href="#">Cahier des charges (PDF)</a>
-        <a class="pill-btn" href="#">Diagramme de Gantt (PDF)</a>
-        <a class="pill-btn" href="#">Guide Power BI (PDF)</a>
-        <a class="pill-btn" href="#">Vidéo Loom</a>
+      <div class="buttons">
+        <a class="btn" href="Projets/README.md">Projets de formation</a>
+        <a class="btn" href="Aeroworld/README.md">Livrables Aéroworld</a>
       </div>
-    </section>
+    </div>
 
-    <section id="dashboards">
-      <h2>Dashboards</h2>
+    <div class="card">
+      <h2>Projets de formation</h2>
+      <p class="muted">
+        Cette partie regroupe les projets réalisés pendant la formation Data Analyst, organisés selon les blocs de compétences RNCP.
+      </p>
+    </div>
 
-      <div class="cards-grid">
-        <div class="mini-card">
-          <h3>Diagramme de Gantt</h3>
-          <p class="muted">Planification du projet final Aéroworld.</p>
-          <a class="pill-btn" href="#">Voir le dashboard</a>
-        </div>
+    <div class="card">
+      <h2>Projet Aéroworld</h2>
+      <p class="muted">
+        Cette partie rassemble les principaux livrables du projet 13 : analyse des besoins, cahier des charges, Gantt, dashboards, guide de création graphique et vidéo Loom.
+      </p>
+    </div>
 
-        <div class="mini-card">
-          <h3>Mon profil Data Analyst</h3>
-          <p class="muted">Compétences techniques, soft skills et parcours de formation.</p>
-          <a class="pill-btn" href="#">Voir le dashboard</a>
-        </div>
-
-        <div class="mini-card">
-          <h3>Veille Data</h3>
-          <p class="muted">Analyse des compétences et tendances du marché Data Analyst.</p>
-          <a class="pill-btn" href="#">Voir le dashboard</a>
-        </div>
-      </div>
-    </section>
-
-    <section id="projets">
-      <div class="card">
-        <h2>Projets RNCP</h2>
-        <p>Les projets sont classés par blocs de compétences RNCP.</p>
-        <ul>
-          <li><strong>BC01</strong> — Structurer et gérer la base de données</li>
-          <li><strong>BC02</strong> — Identifier, collecter et analyser les données</li>
-          <li><strong>BC03</strong> — Visualiser des données et interpréter des résultats</li>
-          <li><strong>BC04</strong> — Piloter un projet data en respectant la réglementation</li>
-          <li><strong>BC05</strong> — Réaliser des tests statistiques et concevoir des modèles</li>
-        </ul>
-      </div>
-    </section>
-
-    <section id="documents">
-      <div class="card">
-        <h2>Documents</h2>
-        <p>Cette section accueillera les liens vers les principaux livrables du projet.</p>
-      </div>
-    </section>
-
-    <section id="contact">
-      <div class="card">
-        <h2>Contact</h2>
-        <p><strong>Julie Rocher</strong></p>
-        <p>Essonne (91)</p>
-        <p>Email : julie.rocher@live.fr</p>
-      </div>
-    </section>
+  </div>
+</body>
+</html>
 
   </main>
 </body>
