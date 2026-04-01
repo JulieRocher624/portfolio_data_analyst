@@ -1,0 +1,257 @@
+"Rank";"Sexe";"Service";"Congé maternité A-1";"Enfants";"Contrat";"Durée hebdo";"Salaire base mensuel";"Augmentation";"Promotion";"Work_accident";"Ancienneté_an";"Niveau de satisfaction"
+1;"H";"Marketing";0;0;"CDI";35;10000;0;0;"Non";"15-20 ans";34
+2;"H";"Compta Finances";0;0;"CDI";35;10000;0;0;"Non";"10-15 ans";78
+3;"H";"Marketing";0;0;"CDI";35;9900;0;0;"Non";"20 ans et +";45
+4;"H";"RH";0;3;"CDI";35;9900;1;1;"Non";"10-15 ans";58
+5;"F";"Consultant";0;3;"CDI";35;9900;0;0;"Non";"20 ans et +";60
+6;"H";"Commercial";0;1;"CDI";35;9800;0;0;"Oui";"15-20 ans";40
+7;"F";"Consultant";0;0;"CDI";35;9800;0;0;"Non";"5-10 ans";69
+8;"F";"Commercial";0;0;"CDI";35;9800;1;0;"Oui";"10-15 ans";13
+9;"H";"Consultant";0;1;"CDI";35;9700;1;1;"Non";"5-10 ans";72
+10;"H";"RH";0;0;"CDI";35;9600;0;0;"Non";"15-20 ans";3
+11;"H";"RH";0;2;"CDI";35;9600;1;0;"Oui";"5-10 ans";32
+12;"H";"Informatique";0;2;"CDI";35;9600;1;0;"Non";"5-10 ans";77
+13;"H";"Commercial";0;1;"CDI";35;9600;0;0;"Oui";"15-20 ans";48
+14;"F";"Commercial";0;1;"CDI";35;9600;1;0;"Non";"10-15 ans";15
+15;"F";"Commercial";0;3;"CDI";35;9500;1;0;"Non";"10-15 ans";81
+16;"H";"Commercial";0;0;"CDI";35;9500;1;1;"Non";"10-15 ans";52
+17;"H";"Consultant";0;2;"CDI";35;9400;1;0;"Non";"20 ans et +";1
+18;"F";"Consultant";0;1;"CDI";35;9400;1;0;"Non";"20 ans et +";9
+19;"H";"Consultant";0;1;"CDI";35;9400;1;0;"Non";"20 ans et +";25
+20;"F";"Informatique";0;1;"CDI";35;9400;1;1;"Non";"5-10 ans";74
+21;"F";"Compta Finances";0;1;"CDI";35;9300;1;0;"Non";"5-10 ans";84
+22;"F";"Marketing";0;1;"CDI";35;9200;0;0;"Non";"5-10 ans";69
+23;"F";"Consultant";0;3;"CDI";35;9200;1;0;"Non";"5-10 ans";7
+24;"H";"Informatique";0;3;"CDI";35;9100;0;0;"Oui";"5-10 ans";8
+25;"H";"Commercial";0;2;"CDI";35;9100;0;0;"Non";"15-20 ans";11
+26;"H";"RH";0;0;"CDI";35;9000;1;1;"Non";"10-15 ans";1
+27;"F";"RH";0;3;"CDI";32;9700;1;0;"Non";"10-15 ans";59
+28;"F";"Commercial";0;3;"CDI";35;8800;0;1;"Oui";"10-15 ans";84
+29;"F";"RH";0;3;"CDI";35;8700;0;1;"Non";"5-10 ans";62
+30;"H";"Informatique";0;1;"CDI";35;8700;0;0;"Non";"5-10 ans";93
+31;"H";"Commercial";0;0;"CDI";35;8700;1;0;"Non";"15-20 ans";80
+32;"H";"Marketing";0;3;"CDI";35;8700;1;0;"Non";"10-15 ans";89
+33;"H";"Compta Finances";0;3;"CDI";35;8700;0;0;"Non";"5-10 ans";26
+34;"F";"Compta Finances";0;0;"CDI";35;8700;1;0;"Non";"15-20 ans";25
+35;"F";"Commercial";0;0;"CDI";35;8600;0;0;"Non";"15-20 ans";44
+36;"H";"RH";0;2;"CDI";35;8600;0;0;"Non";"20 ans et +";87
+37;"H";"Informatique";0;2;"CDI";35;8500;0;0;"Non";"15-20 ans";35
+38;"H";"Commercial";0;2;"CDI";35;8400;1;0;"Oui";"20 ans et +";44
+39;"F";"Compta Finances";0;0;"CDI";35;8400;0;1;"Non";"10-15 ans";96
+40;"H";"Commercial";0;0;"CDI";35;8300;0;1;"Oui";"5-10 ans";14
+41;"F";"Compta Finances";0;3;"CDI";35;8300;0;0;"Non";"5-10 ans";42
+42;"F";"Compta Finances";0;1;"CDI";35;8300;1;0;"Non";"10-15 ans";60
+43;"H";"RH";0;0;"CDI";35;8300;0;0;"Non";"20 ans et +";78
+44;"F";"Compta Finances";0;2;"CDI";35;8200;0;0;"Non";"15-20 ans";32
+45;"F";"Commercial";0;1;"CDI";35;8100;1;0;"Oui";"15-20 ans";54
+46;"F";"RH";0;1;"CDI";35;8100;0;0;"Non";"10-15 ans";69
+47;"H";"Compta Finances";0;3;"CDI";35;8100;1;1;"Non";"15-20 ans";70
+48;"F";"Marketing";0;1;"CDI";35;8100;0;0;"Non";"20 ans et +";75
+49;"F";"Compta Finances";0;1;"CDI";35;8100;0;1;"Non";"10-15 ans";32
+50;"F";"Commercial";0;3;"CDI";35;7900;1;0;"Non";"10-15 ans";78
+51;"H";"Commercial";0;2;"CDI";35;7900;1;0;"Oui";"10-15 ans";42
+52;"F";"Compta Finances";0;1;"CDI";35;7900;0;0;"Oui";"20 ans et +";65
+53;"F";"Compta Finances";0;0;"CDI";35;7900;0;0;"Non";"15-20 ans";53
+54;"F";"RH";0;3;"CDI";35;7900;1;0;"Non";"20 ans et +";63
+55;"H";"Compta Finances";0;2;"CDI";35;7800;1;0;"Non";"15-20 ans";96
+56;"H";"Commercial";0;3;"CDI";35;7700;1;0;"Oui";"10-15 ans";31
+57;"H";"RH";0;2;"CDI";35;7700;0;0;"Non";"5-10 ans";86
+58;"F";"RH";0;0;"CDI";35;7700;0;0;"Non";"15-20 ans";47
+59;"F";"Consultant";0;3;"CDI";35;7700;1;1;"Non";"0-5 ans";77
+60;"H";"Informatique";0;3;"CDI";35;7700;1;0;"Non";"20 ans et +";54
+61;"F";"RH";0;1;"CDI";35;7600;1;0;"Non";"5-10 ans";84
+62;"H";"Marketing";0;3;"CDI";35;7600;0;0;"Non";"10-15 ans";59
+63;"F";"Compta Finances";0;0;"CDI";35;7600;1;1;"Non";"10-15 ans";55
+64;"F";"Commercial";0;0;"CDI";35;7500;1;0;"Non";"20 ans et +";77
+65;"F";"Compta Finances";0;1;"CDI";35;7400;1;0;"Non";"5-10 ans";70
+66;"H";"Marketing";0;2;"CDI";28;9200;1;0;"Non";"5-10 ans";17
+67;"F";"Consultant";0;3;"CDI";35;7300;0;0;"Non";"20 ans et +";24
+68;"F";"Consultant";0;0;"CDI";35;7300;1;0;"Non";"5-10 ans";34
+69;"H";"Consultant";0;2;"CDI";28;9100;1;1;"Non";"5-10 ans";5
+70;"H";"Marketing";0;2;"CDI";35;7300;0;0;"Non";"15-20 ans";64
+71;"H";"RH";0;3;"CDI";35;7300;1;1;"Non";"10-15 ans";84
+72;"H";"Compta Finances";0;2;"CDI";35;7200;1;0;"Non";"5-10 ans";66
+73;"H";"Marketing";0;0;"CDI";35;7200;1;1;"Non";"20 ans et +";54
+74;"H";"Consultant";0;2;"CDI";35;7200;1;0;"Non";"5-10 ans";89
+75;"F";"RH";0;0;"CDI";35;7200;0;0;"Non";"0-5 ans";6
+76;"F";"RH";1;1;"CDI";35;7100;1;0;"Oui";"5-10 ans";42
+77;"H";"Commercial";0;1;"CDI";35;7100;1;0;"Oui";"20 ans et +";39
+78;"H";"Informatique";0;0;"CDI";35;7100;0;0;"Non";"20 ans et +";31
+79;"H";"Consultant";0;0;"CDI";35;7000;0;1;"Non";"15-20 ans";99
+80;"F";"Commercial";0;3;"CDI";35;6900;0;1;"Non";"15-20 ans";21
+81;"H";"Marketing";0;1;"CDI";24;10000;1;0;"Non";"20 ans et +";1
+82;"F";"Commercial";1;3;"CDI";35;6800;1;0;"Oui";"0-5 ans";41
+83;"F";"Commercial";0;2;"CDI";35;6800;1;0;"Non";"20 ans et +";47
+84;"F";"Compta Finances";0;3;"CDI";32;7400;0;0;"Non";"20 ans et +";6
+85;"F";"Consultant";0;1;"CDI";35;6600;0;0;"Oui";"20 ans et +";63
+86;"F";"Marketing";0;2;"CDI";35;6600;1;0;"Non";"10-15 ans";67
+87;"H";"Informatique";0;1;"CDI";35;6500;0;1;"Non";"20 ans et +";4
+88;"H";"Informatique";0;0;"CDI";35;6500;0;0;"Oui";"5-10 ans";30
+89;"F";"Consultant";0;3;"CDI";35;6400;1;0;"Non";"5-10 ans";72
+90;"H";"Consultant";0;2;"CDI";35;6400;0;0;"Non";"5-10 ans";80
+91;"H";"Consultant";0;0;"CDI";35;6400;1;0;"Non";"5-10 ans";68
+92;"F";"Informatique";0;1;"CDI";35;6400;1;0;"Non";"0-5 ans";4
+93;"F";"Consultant";0;1;"CDI";35;6300;0;0;"Non";"5-10 ans";39
+94;"F";"Commercial";0;2;"CDI";35;6200;1;0;"Non";"0-5 ans";3
+95;"H";"Commercial";0;1;"CDI";35;6200;0;1;"Non";"10-15 ans";56
+96;"H";"Informatique";0;2;"CDI";24;9000;0;0;"Non";"20 ans et +";57
+97;"H";"RH";0;0;"CDI";35;6200;0;0;"Non";"5-10 ans";29
+98;"F";"Commercial";0;2;"CDI";35;6200;1;1;"Non";"20 ans et +";38
+99;"F";"Compta Finances";0;3;"CDI";35;6100;1;1;"Non";"10-15 ans";94
+100;"H";"Commercial";0;0;"CDI";35;6100;0;0;"Oui";"20 ans et +";7
+101;"H";"Consultant";0;2;"CDI";35;6000;1;0;"Non";"15-20 ans";36
+102;"H";"Commercial";0;2;"CDI";35;6000;1;0;"Oui";"15-20 ans";74
+103;"H";"Marketing";0;1;"CDI";35;6000;1;0;"Oui";"20 ans et +";70
+104;"H";"Commercial";0;3;"CDI";35;6000;0;0;"Non";"20 ans et +";17
+105;"F";"Marketing";0;0;"CDI";24;8700;1;0;"Non";"5-10 ans";1
+106;"H";"Commercial";0;3;"CDI";35;5900;1;0;"Non";"15-20 ans";41
+107;"H";"Marketing";0;3;"CDI";35;5900;0;0;"Non";"5-10 ans";37
+108;"F";"Commercial";0;3;"CDI";24;8600;1;0;"Non";"20 ans et +";15
+109;"H";"Consultant";0;1;"CDI";35;5800;1;0;"Non";"5-10 ans";94
+110;"H";"Commercial";0;3;"CDI";35;5800;0;0;"Non";"20 ans et +";15
+111;"H";"Commercial";0;0;"CDI";35;5700;0;0;"Non";"10-15 ans";19
+112;"F";"Consultant";0;1;"CDI";35;5700;1;1;"Non";"20 ans et +";51
+113;"H";"Compta Finances";0;3;"CDI";24;8300;1;0;"Non";"15-20 ans";100
+114;"F";"Consultant";0;1;"CDI";35;5600;1;0;"Non";"15-20 ans";50
+115;"F";"Commercial";0;1;"CDI";35;5600;1;1;"Oui";"20 ans et +";86
+116;"F";"RH";0;2;"CDI";35;5500;1;0;"Non";"5-10 ans";7
+117;"H";"Marketing";0;1;"CDI";35;5500;1;1;"Non";"20 ans et +";81
+118;"H";"Commercial";0;0;"CDI";35;5500;0;0;"Non";"10-15 ans";47
+119;"H";"Marketing";0;2;"CDI";24;8000;0;0;"Non";"5-10 ans";25
+120;"H";"Consultant";0;3;"CDI";35;5500;0;0;"Non";"15-20 ans";8
+121;"H";"Consultant";0;3;"CDI";24;7900;0;0;"Non";"5-10 ans";51
+122;"F";"Consultant";0;1;"CDI";35;5400;1;0;"Non";"5-10 ans";51
+123;"H";"RH";0;1;"CDI";35;5400;1;0;"Non";"15-20 ans";80
+124;"F";"RH";0;3;"CDI";35;5300;0;0;"Non";"15-20 ans";30
+125;"H";"Informatique";0;0;"CDI";35;5200;0;0;"Non";"0-5 ans";32
+126;"F";"RH";0;3;"CDI";35;5100;0;0;"Non";"5-10 ans";77
+127;"H";"Consultant";0;0;"CDI";28;6400;1;0;"Non";"5-10 ans";62
+128;"F";"Commercial";0;0;"CDI";35;5100;1;0;"Non";"20 ans et +";31
+129;"F";"RH";0;0;"CDI";35;5100;0;0;"Non";"0-5 ans";20
+130;"F";"RH";0;0;"CDI";35;5100;1;0;"Non";"15-20 ans";55
+131;"F";"RH";1;2;"CDI";35;5100;1;0;"Non";"15-20 ans";46
+132;"H";"RH";0;3;"CDI";35;5000;0;0;"Non";"20 ans et +";95
+133;"H";"Compta Finances";0;0;"CDI";35;5000;0;0;"Non";"20 ans et +";52
+134;"F";"Commercial";0;2;"CDI";24;7300;0;0;"Oui";"10-15 ans";66
+135;"F";"Commercial";0;0;"CDI";24;7100;1;0;"Non";"5-10 ans";1
+136;"F";"RH";0;0;"CDI";24;7100;0;0;"Non";"20 ans et +";11
+137;"H";"Consultant";0;0;"CDI";24;7000;0;1;"Non";"5-10 ans";33
+138;"F";"Marketing";0;2;"CDI";35;4800;1;0;"Non";"10-15 ans";73
+139;"F";"Consultant";0;0;"CDI";35;4700;1;0;"Non";"10-15 ans";46
+140;"F";"Informatique";0;2;"CDI";35;4700;0;0;"Oui";"20 ans et +";32
+141;"H";"Marketing";0;1;"CDI";35;4600;0;0;"Non";"10-15 ans";92
+142;"F";"Marketing";0;1;"CDI";35;4600;1;0;"Oui";"15-20 ans";51
+143;"F";"Consultant";0;1;"CDI";35;4500;1;0;"Non";"15-20 ans";90
+144;"H";"RH";0;1;"CDI";35;4500;1;0;"Non";"5-10 ans";46
+145;"H";"Consultant";0;3;"CDI";35;4400;1;0;"Non";"0-5 ans";2
+146;"F";"Marketing";0;3;"CDI";35;4400;0;0;"Non";"20 ans et +";29
+147;"H";"Compta Finances";0;3;"CDI";35;4400;1;1;"Non";"10-15 ans";28
+148;"H";"Consultant";0;0;"CDI";35;4300;0;0;"Non";"10-15 ans";39
+149;"F";"Consultant";0;0;"CDI";35;4300;0;1;"Non";"10-15 ans";82
+150;"H";"Consultant";0;3;"CDI";35;4300;1;0;"Non";"5-10 ans";50
+151;"H";"Compta Finances";0;0;"CDI";35;4300;0;0;"Non";"15-20 ans";48
+152;"F";"Compta Finances";0;0;"CDI";35;4200;1;0;"Non";"5-10 ans";4
+153;"F";"Compta Finances";0;2;"CDI";35;4200;1;0;"Non";"0-5 ans";14
+154;"H";"Informatique";0;2;"CDI";24;6100;0;0;"Non";"20 ans et +";41
+155;"F";"Commercial";0;0;"CDI";35;4200;1;0;"Oui";"15-20 ans";60
+156;"H";"Consultant";0;0;"CDI";35;4100;0;0;"Non";"20 ans et +";34
+157;"F";"RH";0;1;"CDI";24;6000;1;0;"Non";"5-10 ans";35
+158;"F";"Marketing";0;1;"CDI";35;4100;0;0;"Non";"20 ans et +";74
+159;"H";"Marketing";0;1;"CDI";35;4000;0;0;"Non";"15-20 ans";37
+160;"F";"Compta Finances";0;0;"CDI";35;4000;0;0;"Non";"5-10 ans";93
+161;"H";"Consultant";0;0;"CDI";35;4000;1;0;"Non";"20 ans et +";60
+162;"H";"Consultant";0;2;"CDI";35;3900;0;0;"Non";"5-10 ans";13
+163;"H";"RH";0;1;"CDI";35;3900;0;1;"Non";"10-15 ans";49
+164;"F";"Compta Finances";0;1;"CDI";24;5600;1;1;"Non";"20 ans et +";47
+165;"F";"RH";0;3;"CDI";35;3800;0;0;"Non";"10-15 ans";99
+166;"H";"RH";0;1;"CDI";35;3800;0;0;"Non";"20 ans et +";39
+167;"F";"Commercial";0;3;"CDI";35;3800;1;1;"Non";"20 ans et +";61
+168;"F";"RH";0;1;"CDI";35;3800;0;0;"Non";"20 ans et +";29
+169;"F";"RH";0;1;"CDI";35;3700;1;0;"Oui";"10-15 ans";62
+170;"H";"Marketing";0;2;"CDD";35;3700;0;0;"Non";"0-5 ans";25
+171;"H";"Commercial";0;1;"CDI";35;3700;0;1;"Non";"20 ans et +";95
+172;"H";"Marketing";0;1;"CDI";35;3700;0;0;"Non";"15-20 ans";69
+173;"F";"Marketing";0;1;"CDD";35;3600;0;0;"Non";"0-5 ans";96
+174;"F";"Marketing";0;2;"CDI";35;3600;1;0;"Non";"15-20 ans";38
+175;"H";"Marketing";0;2;"CDI";35;3600;1;0;"Non";"20 ans et +";81
+176;"F";"Consultant";1;2;"CDI";35;3500;1;0;"Non";"10-15 ans";1
+177;"H";"RH";0;2;"CDI";35;3500;0;1;"Non";"20 ans et +";92
+178;"H";"RH";0;2;"CDI";35;3500;0;0;"Non";"0-5 ans";65
+179;"H";"Marketing";0;0;"CDI";35;3500;1;0;"Oui";"20 ans et +";99
+180;"F";"Consultant";0;1;"CDI";35;3500;0;0;"Non";"10-15 ans";25
+181;"H";"Compta Finances";0;0;"CDI";35;3400;1;0;"Non";"10-15 ans";44
+182;"H";"Compta Finances";0;2;"CDI";35;3400;0;0;"Non";"15-20 ans";56
+183;"H";"RH";0;3;"CDI";35;3300;1;0;"Non";"5-10 ans";90
+184;"F";"Commercial";0;1;"CDI";35;3300;1;0;"Non";"15-20 ans";42
+185;"F";"Marketing";0;3;"CDI";35;3300;0;0;"Non";"5-10 ans";25
+186;"H";"Consultant";0;1;"CDI";35;3200;0;0;"Non";"20 ans et +";36
+187;"F";"RH";0;3;"CDI";35;3200;1;0;"Non";"15-20 ans";23
+188;"F";"Compta Finances";0;1;"CDD";35;3200;;0;"Non";"0-5 ans";45
+189;"F";"Commercial";0;3;"CDD";35;3200;0;0;"Non";"0-5 ans";58
+190;"F";"Consultant";0;3;"CDD";35;3200;0;0;"Non";"0-5 ans";18
+191;"F";"Commercial";0;2;"CDI";35;3200;0;0;"Oui";"5-10 ans";67
+192;"F";"RH";0;3;"CDI";24;4500;0;0;"Non";"5-10 ans";48
+193;"F";"Consultant";0;1;"CDI";35;3100;0;0;"Non";"20 ans et +";19
+194;"F";"RH";0;2;"CDI";24;4500;0;0;"Non";"15-20 ans";73
+195;"F";"Consultant";0;2;"CDD";35;3000;0;0;"Non";"0-5 ans";24
+196;"F";"RH";0;2;"CDI";35;3000;1;0;"Non";"15-20 ans";15
+197;"H";"Marketing";0;3;"CDI";35;3000;1;0;"Non";"5-10 ans";22
+198;"F";"Commercial";0;1;"CDI";35;2900;1;1;"Oui";"5-10 ans";97
+199;"H";"Consultant";0;0;"CDI";35;2900;1;0;"Non";"20 ans et +";89
+200;"F";"Commercial";0;2;"CDI";35;2900;1;0;"Non";"10-15 ans";98
+201;"F";"Marketing";0;2;"CDI";35;2900;0;1;"Non";"0-5 ans";40
+202;"F";"Commercial";0;1;"CDD";35;2900;0;0;"Non";"0-5 ans";76
+203;"H";"Informatique";0;0;"CDD";35;2800;1;0;"Oui";"0-5 ans";81
+204;"H";"Consultant";0;1;"CDI";35;2800;0;0;"Non";"10-15 ans";69
+205;"H";"Consultant";0;3;"CDI";35;2800;1;0;"Non";"5-10 ans";24
+206;"H";"Commercial";0;3;"CDI";35;2800;0;0;"Non";"20 ans et +";86
+207;"H";"Consultant";0;3;"CDI";28;3500;1;0;"Non";"10-15 ans";9
+208;"H";"Consultant";0;1;"CDI";35;2800;1;0;"Non";"20 ans et +";66
+209;"H";"Compta Finances";0;2;"CDI";35;2800;0;0;"Oui";"15-20 ans";89
+210;"H";"RH";0;3;"CDI";35;2800;1;0;"Non";"5-10 ans";88
+211;"H";"RH";0;0;"CDI";24;4000;0;0;"Non";"20 ans et +";47
+212;"F";"Consultant";0;2;"CDI";35;2700;1;0;"Non";"15-20 ans";3
+213;"H";"Consultant";0;0;"CDI";35;2700;1;0;"Non";"0-5 ans";60
+214;"H";"Compta Finances";0;0;"CDI";35;2600;1;0;"Non";"20 ans et +";70
+215;"H";"Consultant";0;0;"CDI";35;2600;0;0;"Non";"15-20 ans";68
+216;"H";"Consultant";0;2;"CDD";35;2600;0;0;"Oui";"0-5 ans";59
+217;"H";"Commercial";0;2;"CDI";35;2500;0;0;"Oui";"5-10 ans";79
+218;"F";"RH";0;2;"CDI";24;3700;1;1;"Non";"15-20 ans";98
+219;"F";"Consultant";0;0;"CDD";32;2700;0;0;"Oui";"0-5 ans";6
+220;"F";"Marketing";0;1;"CDD";35;2400;0;0;"Oui";"0-5 ans";70
+221;"H";"Commercial";0;2;"CDI";35;2400;0;0;"Oui";"20 ans et +";62
+222;"F";"Commercial";0;1;"CDI";35;2400;0;0;"Non";"10-15 ans";52
+223;"H";"Consultant";0;1;"CDD";32;2600;0;0;"Non";"0-5 ans";100
+224;"F";"Commercial";0;3;"CDI";35;2300;0;0;"Non";"5-10 ans";63
+225;"F";"Consultant";0;3;"CDD";35;2200;0;0;"Non";"0-5 ans";81
+226;"F";"Consultant";0;3;"CDI";35;2100;1;1;"Non";"0-5 ans";60
+227;"F";"Compta Finances";0;1;"CDD";35;2100;0;0;"Non";"0-5 ans";84
+228;"F";"Compta Finances";0;0;"CDI";35;2100;1;1;"Oui";"10-15 ans";40
+229;"F";"Consultant";0;2;"CDI";35;2100;0;0;"Non";"20 ans et +";59
+230;"F";"Commercial";0;1;"CDI";35;2100;0;0;"Non";"0-5 ans";58
+231;"F";"Consultant";1;2;"CDI";35;2100;1;0;"Non";"5-10 ans";95
+232;"H";"Consultant";0;2;"CDI";24;3000;0;0;"Non";"10-15 ans";37
+233;"F";"Compta Finances";0;0;"CDI";35;2100;;0;"Non";"5-10 ans";12
+234;"F";"Consultant";0;1;"CDI";35;2000;0;0;"Non";"5-10 ans";92
+235;"H";"Consultant";0;0;"CDI";35;2000;1;0;"Non";"10-15 ans";42
+236;"F";"Compta Finances";1;1;"CDI";35;2000;1;0;"Non";"0-5 ans";44
+237;"H";"Marketing";0;0;"CDD";35;2000;0;0;"Non";"0-5 ans";19
+238;"H";"Compta Finances";0;2;"CDI";35;2000;1;0;"Non";"5-10 ans";31
+239;"F";"Compta Finances";1;3;"CDD";35;1900;1;0;"Non";"0-5 ans";18
+240;"H";"Consultant";0;1;"CDI";35;1900;0;0;"Non";"10-15 ans";45
+241;"F";"Marketing";1;3;"CDI";35;1900;1;0;"Non";"0-5 ans";67
+242;"H";"Consultant";0;0;"CDI";28;2300;0;0;"Non";"20 ans et +";15
+243;"H";"Compta Finances";0;1;"CDI";35;1800;0;0;"Non";"15-20 ans";15
+244;"H";"Compta Finances";0;3;"CDI";35;1800;0;1;"Non";"5-10 ans";17
+245;"H";"Consultant";0;3;"CDI";35;1800;1;0;"Non";"0-5 ans";81
+246;"F";"Consultant";0;2;"CDI";35;1800;1;0;"Non";"5-10 ans";47
+247;"H";"Compta Finances";0;3;"CDI";35;1800;1;1;"Non";"15-20 ans";44
+248;"H";"Consultant";0;0;"CDI";24;2500;1;1;"Non";"10-15 ans";87
+249;"F";"Consultant";0;3;"CDI";35;1700;1;0;"Non";"5-10 ans";87
+250;"H";"Consultant";0;3;"CDI";35;1700;1;0;"Non";"20 ans et +";98
+251;"H";"Marketing";0;0;"CDI";35;1700;1;0;"Non";"10-15 ans";32
+252;"H";"Consultant";0;0;"CDI";35;1700;0;0;"Non";"15-20 ans";69
+253;"F";"Marketing";0;1;"CDI";35;1600;0;1;"Non";"10-15 ans";40
+254;"H";"Commercial";0;2;"CDI";35;1600;1;1;"Non";"10-15 ans";62
+255;"H";"Consultant";0;0;"CDI";24;1600;1;0;"Non";"5-10 ans";30
+256;"F";"Compta Finances";0;1;"CDI";24;1500;0;1;"Non";"10-15 ans";68
