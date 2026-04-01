@@ -16,7 +16,7 @@ Ce dossier regroupe les principaux livrables réalisés dans le cadre du **proje
 
 - Guide de création de graphiques avec Power BI.
 
-- [Lien vers la vidéo Loom de démonstration.] (https://www.loom.com/share/b79d3c0b76a44120a883dd4c78d1f488)
+- [Lien vers la vidéo Loom de démonstration.](https://www.loom.com/share/b79d3c0b76a44120a883dd4c78d1f488)
 
 ## Objectif
 Ces documents permettent de présenter le travail réalisé dans le cadre du portfolio, ainsi que les compétences mobilisées en analyse métier, gestion de projet, visualisation de données et communication.
