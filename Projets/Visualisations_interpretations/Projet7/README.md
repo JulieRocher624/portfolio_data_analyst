@@ -1,18 +1,19 @@
-# Projet 2 – Faites une analyse de ventes pour un e-commerce
+# Projet 7 – Créez un tableau de bord dynamique avec Power BI pour visualiser l’avancement de projets
 
 ## Bloc de compétences
 RNCP37837BC03 – Visualiser des données et interpréter des résultats
 
 ## Présentation
-Ce projet consiste à analyser les ventes d’un site e-commerce afin de produire des visualisations pertinentes et de mettre en évidence les principaux résultats de manière claire.
+Ce projet consiste à concevoir un tableau de bord interactif dans Power BI afin de suivre l’avancement de projets, visualiser les indicateurs clés et faciliter le pilotage.
 
 ## Objectifs
-- Analyser les ventes à partir de données chiffrées
-- Créer des graphiques adaptés aux indicateurs étudiés
-- Construire un tableau de bord lisible
-- Présenter les résultats avec une logique de data storytelling
+- Concevoir un tableau de bord dynamique
+- Préparer et transformer les données
+- Créer des indicateurs visuels pertinents
+- Faciliter le suivi et l’interprétation des résultats
 
 ## Outils
-- Excel
+- Power BI
+- Power Query
+- DAX
 - PowerPoint
-- PowerBI
