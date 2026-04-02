@@ -33,5 +33,5 @@ Ce portfolio regroupe :
 L’objectif de ce portfolio est de présenter de manière claire mon parcours, mes réalisations et les compétences développées pendant la formation, dans une logique de valorisation professionnelle.
 
 ## Navigation
-- [Projets de formation](Projets/README.md)
-- [Livrables Aéroworld](Aeroworld/README.md)
+- [Projets de formation](Projets)
+- [Livrables Aéroworld](Aeroworld)
