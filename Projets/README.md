@@ -38,4 +38,4 @@ Ce bloc regroupe les projets liés aux analyses statistiques, aux tests et aux p
 - [Projet 12 – Détectez des faux billets avec R ou Python](Statistiques/Projet12)
 
 ## Retour
-[Retour à l’accueil du portfolio](../README.md)
+[Retour à l’accueil du portfolio](https://julierocher624.github.io/portfolio_data_analyst)
