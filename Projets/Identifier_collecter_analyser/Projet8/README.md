@@ -16,3 +16,8 @@ Ce projet consiste à analyser des données liées à l’égalité femmes/homme
 - KNIME
 - CSV
 - PowerPoint
+
+## Livrables
+- [Workflow KNIME](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Identifier_collecter_analyser/Projet8/ROCHER_Julie_1_workflow_KNIME_072025.knwf)
+- [Fichier CSV](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Identifier_collecter_analyser/Projet8/ROCHER_Julie_2_fichier_csv_072025.csv)
+- [Support de présentation](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Identifier_collecter_analyser/Projet8/ROCHER_Julie_3_support_presentation_072025.pdf)
