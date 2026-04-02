@@ -3,98 +3,151 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Portfolio Data Analyst -  Julie Rocher</title>
+  <title>Portfolio Data Analyst - Julie Rocher</title>
   <style>
+    * {
+      box-sizing: border-box;
+    }
+
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background-color: #f3f4f6;
+      background: linear-gradient(to bottom, #f8fafc, #eef2f7);
       color: #0f172a;
-      line-height: 1.6;
+      line-height: 1.7;
     }
 
     .container {
       max-width: 1100px;
-      margin: auto;
-      padding: 30px;
-    }
-
-    h1, h2 {
-      color: #163b6d;
+      margin: 0 auto;
+      padding: 50px 24px;
     }
 
     .hero {
       background-color: #ffffff;
-      border-radius: 16px;
-      padding: 30px;
-      margin-bottom: 30px;
-      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+      border-radius: 24px;
+      padding: 50px;
+      box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+      border: 1px solid #e2e8f0;
     }
 
-    .card {
-      background-color: #e9edf2;
-      border-radius: 16px;
-      padding: 25px;
-      margin-bottom: 25px;
+    .subtitle {
+      display: inline-block;
+      font-size: 14px;
+      font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 1.2px;
+      color: #1d4f91;
+      background-color: #eff6ff;
+      padding: 8px 14px;
+      border-radius: 999px;
+      margin-bottom: 18px;
+    }
+
+    h1 {
+      margin: 0 0 22px;
+      font-size: 48px;
+      line-height: 1.15;
+      color: #163b6d;
+    }
+
+    .intro {
+      font-size: 20px;
+      color: #1e293b;
+      margin-bottom: 20px;
+      max-width: 900px;
+    }
+
+    .text {
+      font-size: 18px;
+      color: #334155;
+      margin-bottom: 16px;
+      max-width: 900px;
+    }
+
+    .highlight {
+      font-weight: bold;
+      color: #163b6d;
     }
 
     .buttons {
-      margin-top: 20px;
+      margin-top: 32px;
       display: flex;
       flex-wrap: wrap;
-      gap: 12px;
+      gap: 16px;
     }
 
     .btn {
       display: inline-block;
-      background-color: #1f497d;
+      background: linear-gradient(135deg, #1f497d, #163b6d);
       color: white;
       text-decoration: none;
-      padding: 12px 18px;
-      border-radius: 10px;
+      padding: 14px 22px;
+      border-radius: 12px;
       font-weight: bold;
+      font-size: 16px;
+      transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+      box-shadow: 0 6px 14px rgba(31, 73, 125, 0.18);
     }
 
     .btn:hover {
-      background-color: #16365d;
+      transform: translateY(-2px);
+      box-shadow: 0 10px 18px rgba(31, 73, 125, 0.22);
+      background: linear-gradient(135deg, #245692, #194372);
     }
 
-    .muted {
-      color: #475569;
+    @media (max-width: 768px) {
+      .hero {
+        padding: 32px 24px;
+      }
+
+      h1 {
+        font-size: 34px;
+      }
+
+      .intro,
+      .text {
+        font-size: 17px;
+      }
+
+      .buttons {
+        flex-direction: column;
+      }
+
+      .btn {
+        width: 100%;
+        text-align: center;
+      }
     }
   </style>
 </head>
 <body>
   <div class="container">
+    <section class="hero">
+      <div class="subtitle">Portfolio professionnel</div>
 
-    <div class="hero">
-      <h1>Julie Rocher – Portfolio Data Analyst</h1>
-      <p>
-        Data Analyst en fin de formation, j’ai développé mes compétences à travers 13 projets professionnalisants réalisés avec OpenClassrooms sur deux ans, autour de l’analyse de données, du reporting et de la visualisation.
+      <h1>Julie Rocher – Data Analyst</h1>
+
+      <p class="intro">
+        Data Analyst en reconversion, je développe mes compétences à travers des projets concrets en
+        <span class="highlight">analyse de données</span>,
+        <span class="highlight">reporting</span> et
+        <span class="highlight">visualisation</span>.
       </p>
-      <p>
-        En reconversion professionnelle, je m’appuie sur une première expérience en optique, fondée sur la rigueur, l’écoute et l’analyse du besoin.
+
+      <p class="text">
+        Après une première expérience en optique, j’ai choisi de me réorienter vers la data analyse, un domaine qui me permet de mobiliser à la fois rigueur, logique et sens de l’observation.
+      </p>
+
+      <p class="text">
+        Mon portfolio présente 13 projets professionnalisants réalisés dans le cadre de ma formation, ainsi que les principaux livrables du projet Aéroworld.
       </p>
 
       <div class="buttons">
-        <a class="btn" href="Projets">Projets de formation</a>
-        <a class="btn" href="Aeroworld">Livrables Aéroworld</a>
+        <a class="btn" href="#projets">Découvrir mes projets</a>
+        <a class="btn" href="#aeroworld">Voir les livrables Aéroworld</a>
       </div>
-    </div>
-
-    <div class="card">
-      <h2>Projets de formation</h2>
-      <p class="muted">
-        Cette partie regroupe les projets réalisés pendant la formation Data Analyst, organisés selon les blocs de compétences RNCP.
-      </p>
-    </div>
-
-    <div class="card">
-      <h2>Projet Aéroworld</h2>
-      <p class="muted">
-        Cette partie rassemble les principaux livrables du projet 13 : analyse des besoins, cahier des charges, Gantt, dashboards, guide de création graphique et vidéo Loom.
-      </p>
-    </div>
-  </main>
+    </section>
+  </div>
 </body>
 </html>
