@@ -18,3 +18,7 @@ Ce projet consiste à analyser les données d’une boutique afin d’optimiser 
 - Pandas
 - Plotly
 - PowerPoint
+
+## Livrables
+- [Notebook](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Identifier_collecter_analyser/Projet6/Rocher_Julie_1_notebook_022025.ipynb)
+- [Support de présentation](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Identifier_collecter_analyser/Projet6/Rocher_Julie_2_presentation_022025.pptx)
