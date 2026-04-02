@@ -17,3 +17,8 @@ Ce projet consiste à analyser des caractéristiques de billets afin d’identif
 - Notebook
 - Script de prédiction
 - Canva
+
+## Livrables
+- [Notebook](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Statistiques/Projet12/Rocher_Julie_1_Notebook_analyse_012026.ipynb)
+- [Script de l'application](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Statistiques/Projet12/Rocher_Julie_2_Script_application_012026.ipynb)
+- [Support de présentation](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Statistiques/Projet12/Rocher_Julie_3_presentation_ppt.pptx)
