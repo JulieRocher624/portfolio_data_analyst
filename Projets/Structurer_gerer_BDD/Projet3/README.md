@@ -16,3 +16,9 @@ Ce projet consiste à interroger une base de données relationnelle à l’aide 
 - SQL
 - Base de données relationnelle
 - PowerPoint
+  
+## Livrables
+- [Document technique](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Structurer_gerer_BDD/Projet3/ROCHER_Julie_1_document_technique_012024.pdf)
+- [Liste](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Structurer_gerer_BDD/Projet3/ROCHER_Julie_2_liste_012024.pdf)
+- [Méthodologie](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Structurer_gerer_BDD/Projet3/ROCHER_Julie_3_methodologie_012024.pdf)
+- [Grille d'auto-évaluation](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Structurer_gerer_BDD/Projet3/ROCHER_Julie_4_grille_012024.pdf)
