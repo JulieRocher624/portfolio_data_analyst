@@ -17,3 +17,7 @@ Ce projet consiste à analyser des données de santé publique afin d’identifi
 - Notebook
 - CSV
 - PowerPoint
+
+## Livrables
+-[Template](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Identifier_collecter_analyser/Projet4/definitifTemplate%2BJulien%2B(1).pdf)
+-[Support de présentation](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Identifier_collecter_analyser/Projet4/pp%20final.pptx)
