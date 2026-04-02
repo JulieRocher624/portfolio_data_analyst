@@ -18,3 +18,8 @@ Ce projet consiste à réaliser une étude de marché à partir de données, afi
 - ACP
 - K-Means
 - Canva
+
+## Livrables
+- [Préparation, nettoyage et analyse exploratoire](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Statistiques/Projet11/Rocher_Julie_1_preparation_nettoyage_analyse_exploratoire_012026.ipynb)
+- [Clustering et visualisations](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Statistiques/Projet11/Rocher_Julie_2_clustering_visualisations_012026.ipynb)
+- [Support de présentation](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Statistiques/Projet11/Rocher_Julie_3_presentation_012026.pdf)
