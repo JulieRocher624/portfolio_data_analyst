@@ -15,3 +15,7 @@ Ce projet consiste à analyser les ventes d’un site e-commerce afin de produir
 ## Outils
 - Excel
 - PowerPoint
+
+## Livrables
+- [Rapport mensuel](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Visualisations_interpretations/Projet2/ROCHER_Julie_1_rapport_mensuel_112023.pptx)
+- [Clients affiliés](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Visualisations_interpretations/Projet2/ROCHER_Julie_2_clients_affilies_112023.xlsx)
