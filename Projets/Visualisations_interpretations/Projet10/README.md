@@ -15,3 +15,7 @@ Ce projet consiste à analyser des données liées à l’accès à l’eau pota
 ## Outils
 - Power BI
 - PowerPoint
+
+## Livrables
+- [Support de présentation](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Visualisations_interpretations/Projet10/Rocher_Julie_1_presentation_112025.pptx)
+- [Tableau de bord](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Visualisations_interpretations/Projet10/Rocher_Julie_2_dashboard_112025.pbix)
