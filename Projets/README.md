@@ -7,23 +7,23 @@ Les projets sont organisés selon les **blocs de compétences RNCP** de la certi
 ## RNCP37837BC01 – Structurer et gérer la base de données
 Ce bloc regroupe les projets liés à la structuration, à l’organisation et à l’exploitation de bases de données relationnelles.
 
-- [Projet 1 – Prenez en main votre formation de Data Analyst](structurer/projet1/README.md)
-- [Projet 3 – Requêtez une base de données avec SQL](structurer/projet3/README.md)
-- [Projet 5 – Créez et utilisez une base de données immobilière avec SQL](structurer/projet5/README.md)
+- [Projet 1 – Prenez en main votre formation de Data Analyst](Structurer_gerer_BDD/Projet1/README.md)
+- [Projet 3 – Requêtez une base de données avec SQL](Structurer_gerer_BDD/Projet3/README.md)
+- [Projet 5 – Créez et utilisez une base de données immobilière avec SQL](Structurer_gerer_BDD/Projet5/README.md)
 
 ## RNCP37837BC02 – Identifier, collecter et analyser les données
 Ce bloc rassemble les projets centrés sur la collecte, la préparation, l’analyse et l’interprétation de données.
 
-- [Projet 4 – Réalisez une étude de santé publique avec R ou Python](analyser/projet4/README.md)
-- [Projet 6 – Optimisez la gestion des données d’une boutique avec R ou Python](analyser/projet6/README.md)
-- [Projet 8 – Analysez des indicateurs de l’égalité femmes/hommes en respect du RGPD](analyser/projet8/README.md)
+- [Projet 4 – Réalisez une étude de santé publique avec R ou Python](Identifier_collecter_analyser/Projet4/README.md)
+- [Projet 6 – Optimisez la gestion des données d’une boutique avec R ou Python](Identifier_collecter_analyser/Projet6/README.md)
+- [Projet 8 – Analysez des indicateurs de l’égalité femmes/hommes en respect du RGPD](Identifier_collecter_analyser/Projet8/README.md)
 
 ## RNCP37837BC03 – Visualiser des données et interpréter des résultats
 Ce bloc regroupe les projets de datavisualisation, de reporting et de présentation de résultats.
 
-- [Projet 2 – Faites une analyse de ventes pour un e-commerce](visualiser/projet2/README.md)
-- [Projet 7 – Créez un tableau de bord dynamique avec Power BI pour visualiser l’avancement de projets](visualiser/projet7/README.md)
-- [Projet 10 – Faites une étude sur l’eau potable](visualiser/projet10/README.md)
+- [Projet 2 – Faites une analyse de ventes pour un e-commerce](Visualisations_interpretations/Projet2/README.md)
+- [Projet 7 – Créez un tableau de bord dynamique avec Power BI pour visualiser l’avancement de projets](Visualisations_interpretations/Projet7/README.md)
+- [Projet 10 – Faites une étude sur l’eau potable](Visualisations_interpretations/Projet10/README.md)
 
 ## RNCP37837BC04 – Piloter un projet data en respectant la réglementation
 Ce bloc correspond au projet de synthèse et de valorisation professionnelle.
