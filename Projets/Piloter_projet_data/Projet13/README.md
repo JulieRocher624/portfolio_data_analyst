@@ -71,3 +71,12 @@ Il m’a appris à :
 - structurer des livrables dans une logique métier ;
 - présenter mon profil de manière plus claire et professionnelle ;
 - articuler analyse, visualisation, documentation et communication dans un même projet.
+
+## Livrables
+- [Besoins métier](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Piloter_projet_data/Projet13/besoins_metiers.docx)
+- [Cahier des charges](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Piloter_projet_data/Projet13/cahier_des_charges.pptx)
+- [Veille métier](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Piloter_projet_data/Projet13/veille_metier.pdf)
+- [Diagramme de Gantt](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Piloter_projet_data/Projet13/diagramme_gantt.pdf)
+- [Mon profil](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Piloter_projet_data/Projet13/mon_profil.pdf)
+- [Procédure de création graphique](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Piloter_projet_data/Projet13/procedure_creation_graphique.docx)
+- [Vidéo Loom - conception d'un dashboard](https://www.loom.com/share/b79d3c0b76a44120a883dd4c78d1f488)
