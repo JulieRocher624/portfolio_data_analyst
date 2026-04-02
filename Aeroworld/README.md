@@ -20,3 +20,6 @@ Ce dossier regroupe les principaux livrables réalisés dans le cadre du **proje
 
 ## Objectif
 Ces documents permettent de présenter le travail réalisé dans le cadre du portfolio, ainsi que les compétences mobilisées en analyse métier, gestion de projet, visualisation de données et communication.
+
+## Retour
+[Retour à l’accueil du portfolio](../README.md)
