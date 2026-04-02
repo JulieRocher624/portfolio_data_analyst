@@ -17,3 +17,6 @@ Ce projet consiste à concevoir un tableau de bord interactif dans Power BI afin
 - Power Query
 - DAX
 - PowerPoint
+
+## Livrable
+- [Tableau de bord](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Visualisations_interpretations/Projet7/Rocher_Julie_1_tableau%20de%20bord_022025.pbix)
