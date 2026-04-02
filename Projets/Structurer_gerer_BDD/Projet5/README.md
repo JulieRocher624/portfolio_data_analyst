@@ -16,3 +16,7 @@ Ce projet consiste à concevoir, structurer et exploiter une base de données im
 - SQL
 - Base de données relationnelle
 - PowerPoint
+
+## Livrables
+- [Dictionnaire de données](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Structurer_gerer_BDD/Projet5/Rocher_Julie_1_dictionnaire_de_donnees_032025.xlsx)
+- [Support de présentation](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Structurer_gerer_BDD/Projet5/Rocher_Julie_2_support_pr%C3%A9sentation_032025%20-%20Copie.pdf)
