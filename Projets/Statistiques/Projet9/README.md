@@ -16,3 +16,6 @@ Ce projet consiste à analyser les ventes d’une librairie afin d’identifier 
 - Python ou R
 - Notebook
 - Canva
+## Livrables
+- [Notebook](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Statistiques/Projet9/Rocher_Julie_1_notebook_102025.ipynb)
+- [Support de présentation](https://github.com/JulieRocher624/portfolio_data_analyst/blob/main/Projets/Statistiques/Projet9/Rocher_Julie_2_support_102025.pptx)
